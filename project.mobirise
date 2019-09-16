@@ -1,0 +1,914 @@
+{
+  "settings": {
+    "name": "TSD Ventures",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "colorm",
+      "title": "ColorM",
+      "styling": {
+        "primaryColor": "#c0392b",
+        "buttonsColor": "#000000",
+        "secondaryColor": "#9b59b6",
+        "successColor": "#2ecc71",
+        "infoColor": "#2980b9",
+        "warningColor": "#f1c40f",
+        "dangerColor": "#e74c3c",
+        "titleFont": "Arvo",
+        "subtitleFont": "Montserrat",
+        "textFont": "Open Sans",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true
+      },
+      "additionalSetColors": []
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 8,
+    "versionPublish": "4.10.8",
+    "favicon": "@PROJECT_PATH@/assets/images/tsd-logo-06-black-128x65.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "siteFonts": [],
+    "siteUrl": "undefined",
+    "cookiesAlert": "",
+    "gdpr": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "A B2B Business-to-Business Boutique for Entrepreneurs, Startups and SME. We aim to develop your brand, processes, products and services according to the latest trends. Includes Business Process Outsourcing (BPO) and Innovation & Productivity Best Practices.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".display-1": {
+              "font-weight": "700"
+            },
+            ".subtitle": {
+              "color": "#000000",
+              "font-size": "20px"
+            },
+            ".mbr-section-subtitle.lead": {
+              "text-transform": "uppercase",
+              "margin-bottom": "0"
+            },
+            ".testimonial-text, .testimonial-author, .testimonial-position": {
+              "color": "#565555"
+            },
+            ".testimonial-position": {
+              "font-style": "italic",
+              "color": "#666666"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".testimonial-text B": {
+              "font-size": "20px"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header8",
+              "name": "paperclip",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header8",
+          "_anchor": "header8-7",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showTestimonial": true,
+            "showImage": true,
+            "showArrow": true,
+            "imageSize": 90,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/03.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3498db",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "overlay": true,
+            "overlayColor": "#f1c40f",
+            "overlayOpacity": 0.9
+          },
+          "text": "Your Business IS OUR BUSINESS",
+          "title": "<span style=\"font-weight: normal;\">TSD Ventures</span>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger btn-lg\" href=\"https://mobirise.com\">download it</a>",
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/aadvark-plain-595x841.jpg",
+              "link": "https://www.aardvarkants.com",
+              "active": true,
+              "alt": "",
+              "title": ""
+            }
+          },
+          "comment": "<b>For a business to be (more) successful, it is essential to have good foundations, support, &nbsp;networks and opportunities!</b>",
+          "author": "Aardvarkants",
+          "position": "Chief Business Advisor from Aardvark Anterprises&nbsp;",
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "font-weight": "700",
+              "letter-spacing": ".5vw",
+              "text-transform": "uppercase"
+            },
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase",
+              "letter-spacing": "2px",
+              "color": "#fff"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features16",
+              "name": "globe",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fc7a60",
+              "family": "cm-icon"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features16",
+              "name": "compass",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fc7a60",
+              "family": "cm-icon"
+            }
+          },
+          "title1": "Bootstrap 4",
+          "title2": "Responsive",
+          "title3": "Web Fonts",
+          "title4": "Unlimited Sites",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "buttons": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-lg btn-primary\">learn more</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features16",
+          "_anchor": "features16-9",
+          "_params": {
+            "showTitle": true,
+            "showImages": true,
+            "showTitles": true,
+            "ShowTexts": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/features/03.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#f9593a",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#f9593a",
+            "overlayOpacity": 0.9
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features16",
+              "linkInNewWindow": false,
+              "name": "download",
+              "family": "Mobirise2",
+              "active": true,
+              "link": "index.html#features2-a",
+              "size": 0,
+              "color": "#fc7a60",
+              "newWindow": false
+            }
+          },
+          "subtitle1": "Business Foundations",
+          "caption1": "Getting the right business understanding, learning about the latest business trends and concepts, finding an incubator to jumpstart your ideas as well as investors to get your startup going!",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features16",
+              "linkInNewWindow": false,
+              "name": "setting",
+              "family": "Mobirise2",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fc7a60"
+            }
+          },
+          "subtitle2": "Business Support",
+          "caption2": "As business owners ourselves, we know exactly what services you require and the quality that is desired! Providing a full suite of support services and solutions for that extra omph for your Business needs!",
+          "title": "Our 4 Offerings",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features16",
+              "linkInNewWindow": false,
+              "name": "users",
+              "family": "Mobirise2",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fc7a60"
+            }
+          },
+          "subtitle3": "Business Networks",
+          "caption3": "Instead of seeing other businesses as rivals, lets form synergistic partnerships with each other and add more value in the business value chain! We can do more together!",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features16",
+              "linkInNewWindow": false,
+              "name": "rocket",
+              "family": "cm-icon",
+              "active": true,
+              "link": "index.html#features15-e",
+              "size": 0,
+              "color": "#fc7a60",
+              "newWindow": false
+            }
+          },
+          "subtitle4": "Business Opportunities",
+          "caption4": "Finding it hard to get ahead or wanting ways to succeed? Find more business opportunities, seek out other B2B services, connect with other businesses and to get the latest business trends and data.&nbsp;"
+        },
+        {
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "accordion2",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            },
+            "B": {
+              "color": "#ffffff"
+            },
+            "DIV": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "accordion2-c",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "tabs": "4",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/img_extAccordion1_bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#2980b9",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "title": "<b>1. Promoting Entrepren</b><b>eurship</b>",
+          "text": "The nature of Business is changing rapidly in todays world as customers are more savvy and have larger and wider expectations! From startup wannabees, to traditional businesses seeking to transform their operations, develop a firm business foundations today!&nbsp;",
+          "title1": "<a role=\"button\" class=\"collapsed text-black\" data-toggle=\"collapse\" data-parent=\"#accordion2-c-init\" data-core=\"\" href=\"#collapseOneaccordion2-c\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>Read about Business Trends</a>",
+          "text1": "<p>Read up more on the latest business trends, best practices and successful startup stories on our publications!&nbsp;</p>",
+          "title2": "<a role=\"button\" class=\"collapsed text-black\" data-toggle=\"collapse\" data-parent=\"#accordion2-c-init\" data-core=\"\" href=\"#collapseTwoaccordion2-c\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">Entrepreneurship Guidance</a>",
+          "text2": "<p>Seek guidance for your entrepreneurship journey! Sign up for our internship, mentorship programmes, and seek advisory from our our entrepreneural coaches!&nbsp;</p>",
+          "title3": "<a role=\"button\" class=\"collapsed text-black\" data-toggle=\"collapse\" data-parent=\"#accordion2-c-init\" data-core=\"\" href=\"#collapseThreeaccordion2-c\" aria-expanded=\"false\" aria-controls=\"collapseThree\">Startup Incubation</a>",
+          "text3": "<p>Sign up for our turn key incubation programmes, where our advisors will guide you from start to finish. Services include&nbsp;<br>+ market research and business intelligence<br><span style=\"font-size: 1rem;\">+ product and service development<br>+ Prototyping<br>+ Customer experience and feedback<br>+ Investors and Partnership Matching</span></p>",
+          "title4": "<a role=\"button\" class=\"collapsed text-black\" data-toggle=\"collapse\" data-parent=\"#accordion2-c-init\" data-core=\"\" href=\"#collapseFouraccordion2-c\" aria-expanded=\"false\" aria-controls=\"collapseFour\">Coworking and Shared Offices</a>",
+          "text4": "Visit our Entrepreneurship Centers of Excellence, to find like-minding individuals for an exciting and collaborative startup environment, or speak to our business advisors, &nbsp;engage support services and rent facilities for your team.",
+          "title5": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">This is a accordion Title 5</a>",
+          "text5": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
+          "text6": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>"
+        },
+        {
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features9",
+          "_anchor": "features9-d",
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "showDates": true,
+            "blocks": "4",
+            "cardsColor": "#f2e6c6",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#a15b1c",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "mainTitle": "<span style=\"font-weight: normal;\">2. Business Support</span>",
+          "mainSubtitle": "Our full suite of services and solutions to support your business journey!",
+          "date1": "<i>For Budding and Inspiring Entrepreneurs</i>",
+          "title1": "A. Business Startup Services",
+          "text1": "Every starting business needs to have a business registration, products and services to sell, a means to market and promote your brand, as well as a presence like a website or office. Let us solve your business startup needs!<br>",
+          "date2": "<i>For Startups and Growing Businesses&nbsp;</i>",
+          "title2": "B. &nbsp;Outsourcing Solutions",
+          "text2": "Your business needs are growing, and you need fast and quick solutions. Let us manage your core processes and help you focus on what you do best: Earn Profits!<br>From Branding, IT, Marketing, HR, Accounting and Secretarial Solutions.",
+          "date3": "<i>For Transitioning Businesses</i><br>",
+          "title3": "C. Solving Business Challenges&nbsp;",
+          "text3": "As a business progresses, we face an ever growing wall of problems. From hiring, training and managing top talent, increasing profits and sales, opening up to new market segment, or simply evolving to fit in the new digital and design economies, we are here to help you every step of the way! &nbsp;&nbsp;",
+          "date4": "<i>For Larger Enterprises</i>",
+          "title4": "4. Business Advisory",
+          "text4": "Large organisations requires systemetic and well-organised strategies and change management. Let our Business consultants analyse your business &amp; organisational needs, recommend you the best course of action, and project management your way to greater success!",
+          "date5": "5 May 2016",
+          "title5": "5. Awesome Reports",
+          "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "date6": "6 June 2016",
+          "title6": "6. Multi Homepages",
+          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "date7": "7 July 2016",
+          "title7": "7. Responsive Design",
+          "text7": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "date8": "8 August 2016",
+          "title8": "8. Smart Watch",
+          "text8": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "date9": "9 September 2016",
+          "title9": "9. Design out of the box",
+          "text9": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "date10": "10 October 2016",
+          "title10": "10. Awesome Reports",
+          "text10": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "date11": "11 November 2016",
+          "title11": "11. Design out of the box",
+          "text11": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "date12": "12 December 2016",
+          "title12": "12. Awesome Reports",
+          "text12": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit."
+        },
+        {
+          "_styles": {
+            ".elements-content": {
+              "padding-bottom": "50px"
+            },
+            ".mbr-section-subtitle": {
+              "letter-spacing": "2px",
+              "margin-bottom": "10px",
+              "font-weight": "700"
+            },
+            ".mbr-section-title, .tab-pane": {
+              "color": "#000"
+            }
+          },
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header9",
+          "_anchor": "header9-2",
+          "_params": {
+            "showHeader": true,
+            "showText": true,
+            "showImages": true,
+            "showTitles": true,
+            "tabs": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/04.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ecf0f1",
+            "overlayOpacity": 0.9
+          },
+          "title": "3. The Aardvark Business Networks",
+          "text": "Joining hands, forging parnerships for better synergies with fellow businesses!",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header9-2\" aria-expanded=\"true\">About</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3header9-2\" aria-expanded=\"false\">TechnoloGY</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header9-2\" aria-expanded=\"false\">TRADING</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header9-2\" aria-expanded=\"false\">TravelS</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header9-2\" aria-expanded=\"true\">Beautiful</a></li>",
+          "media11": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-1920x1080.jpg",
+              "class": "card-img-top",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media21": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "title1": "Make Your Business Better",
+          "text1": "As a entrepreneur, start-up hero, SME or even MNCs, let our friendly business consultants help you according the latest trends and best practices. Find learning resources, mentors, consultants and support services here! <b><a href=\"http://business.aardvarkants.com\" target=\"_blank\"><b>CLICK HERE</b></a>!</b>&nbsp;",
+          "media12": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-1920x1255.jpg",
+              "class": "card-img-top",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media22": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "smile-face",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "title2": "The Aardvark Business Networks",
+          "text2": "Join our networks as a personal or corporate member to reap the benefits of being part of a large networked community! From business conventions, &nbsp;collaboration opportunities, access to new markets and consolidated resources, it benefits you to open up and get yourself out there, with us!&nbsp;",
+          "media13": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-1614x1080.jpg",
+              "class": "card-img-top",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media23": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "responsive",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "http://tech.aardvarkants.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "newWindow": false
+            }
+          },
+          "title3": "Aadvark Technologies",
+          "text3": "<p>Technologies that make your work, life and business more efficient and simplier! Choose from the large selection of the latest trending technology services, or customised solutions for every need. Toward Innovation and technological advancement! <a href=\"http://tech.aardvarkants.com\" target=\"_blank\"><b>CLICK HERE</b></a><a href=\"http://tech.aardvarkants.com\"><b></b></a>!</p>",
+          "media14": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-1618x1080.jpg",
+              "class": "card-img-top",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media24": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "shopping-cart",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "http://trading.aardvarkants.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "newWindow": false
+            }
+          },
+          "title4": "The Aardvark Trading Co",
+          "text4": "Trade: Buy and sell products. Set up a physical store or E-Commerce solutions. Looking for advise, &nbsp;supplier relations, or a marketplace to trade your goods, we have it all covered. A one-stop commerce solutions for you and your business.<b> <a href=\"http://trading.aardvarkants.com\" target=\"_blank\"><b>Click Here</b></a></b>!",
+          "media15": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
+              "class": "card-img-top",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media25": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "globe",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "title5": "The World to You Travel Services",
+          "text5": "Roam the seven seas, experience what the world has to offer, make wonderful memories, bring back souvenirs. Rinse and repeat! <br>Book your unforgettable travel journey. <a href=\"http://travel.aardvarkants.com\" target=\"_blank\">CLICK HERE</a>!",
+          "media16": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/nb6.png",
+              "class": "card-img-top",
+              "active": true
+            }
+          },
+          "media26": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "title6": "CONTACT FORMS",
+          "text6": "Easily add subscribe and contact forms without any server-side integration. Just link your email to form and get submissions instantly. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium id perspiciatis, sint odit error animi veniam omnis cupiditate distinctio, a quidem deleniti laborum maiores optio laudantium earum vel! Sint, rerum."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "font-weight": "700"
+            },
+            ".display-6": {
+              "text-transform": "none",
+              "letter-spacing": "0px",
+              "font-weight": "400",
+              "color": "#fff"
+            },
+            ".mbr-cards-row": {
+              "margin-top": "40px"
+            }
+          },
+          "title1": "Bootstrap 4",
+          "title2": "Responsive",
+          "title3": "Web Fonts",
+          "title4": "Unlimited Sites",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features15",
+          "_anchor": "features15-e",
+          "_params": {
+            "showTitle": true,
+            "showImages": true,
+            "showTitles": true,
+            "ShowTexts": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/features/01.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#434350",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#434350",
+            "overlayOpacity": 0.9
+          },
+          "title": "4. Business Opportunities",
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-1920x960.jpg",
+              "class": "card-img-top",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "subtitle1": "See Available Projects",
+          "caption1": "Have any projects that require services? Have goods that you want to buy or sell? See here for a list of opportunities for your business to bid for and to place ads!",
+          "subtitle2": "Participate in Forums and Social Networks",
+          "caption2": "Post questions, find answers to common issues amongst business owners; or talk to clients to find out their needs. Participate in Social networking to connect with people that matter.",
+          "subtitle3": "Seek out Business Directories",
+          "caption3": "Have your business registered or posted on a prominent business directory and allow your customers to find you easily! Or to find other b2b services to resolve your business needs!",
+          "subtitle4": "Utilise Business Intelligence",
+          "caption4": "Trends, facts and figures, as well as in-depth analysis and recommendations of the latest business information.&nbsp;"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.875rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.948rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#ffffff"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#1a242f"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#273646!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2c3e50"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f1c40f!important"
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-h",
+          "_params": {
+            "logo": false,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "bgColor": "#2c3e50",
+            "fontSize": 0.875,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-growing-chart mbr-iconfont mbr-iconfont-btn\"></span>Business Intelligence &amp; Market Research</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"mbri-sun2 mbr-iconfont mbr-iconfont-btn\"></span>Entreprenership Literacy</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://portal.aardvarkants.com/learn\" target=\"_blank\">Read about Business Trends</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Entrepreneurship Guidance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Coworking Spaces&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Startup Incubation</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Aardvark Entrepreneurship Center of Excellence</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Internship and Mentorship Programmes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Personal &amp; Group Coaching</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Incubation Programe</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>Venture Building Solutions</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Advisory and Consulting<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Joint Ventures<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Organise Capital &amp; Funds<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Plug and Play Solutions</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>Startup Ecosystem</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Join Our Network</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Be an Investor</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-rocket mbr-iconfont mbr-iconfont-btn\"></span>Opportunities</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">See Available Projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Business Directories</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://portal.aardvarkants.com\" target=\"_blank\">Visit</a></li>"
+        },
+        {
+          "_styles": {},
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/colorm_logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "titled1": "Private policy",
+          "textd1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt dolores suscipit assumenda ut, voluptatum repellendus perspiciatis minus quia adipisci similique ipsa, officia qui ducimus necessitatibus aut laudantium aliquid non, fuga maxime quibusdam maiores. Enim deleniti quod maxime quos eveniet distinctio.",
+          "followtext": "follow us",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer9",
+          "_anchor": "footer9-m",
+          "_params": {
+            "showTitles": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "title1": "What we do",
+          "text11": "Promote Entrepreneurship",
+          "text12": "Support Businesses",
+          "text13": "Form Networks",
+          "text14": "Create Opportunities",
+          "text15": "",
+          "title2": "company",
+          "text21": "About Us",
+          "text22": "Our Team",
+          "text23": "Mission| Strategy | Goals",
+          "text24": "The Aardvark Business Hubs",
+          "text25": "Innovation and Incubation Centers of Excellence&nbsp;",
+          "title3": "Learn more",
+          "text31": "Our Publications",
+          "text32": "Under Incubation",
+          "text33": "Aardvark Network Membership",
+          "text34": "Find/ Post Opportunities",
+          "text35": "FAQ",
+          "title4": "CONTACT",
+          "text41": "Locations",
+          "text42": "Trending",
+          "text43": "Catalog",
+          "text44": "Awesome",
+          "text45": "Best",
+          "buttons1": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove,-mbrBtnColor\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "form": {
+            "action": "hello@aardvarkants.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email"
+              },
+              "name": {
+                "title": "Name",
+                "customTitle": "Name*",
+                "visible": false
+              },
+              "phone": {
+                "title": "Phone",
+                "customTitle": "Phone",
+                "visible": false
+              }
+            }
+          },
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"cm-icon cm-icon-paperplane\"></span></a>",
+          "text": "Copyright (c) 2018&nbsp;<a href=\"https://mobirise.com\" class=\"text-primary\">Aardvark Anterprises</a>."
+        }
+      ]
+    },
+    "404.html": {
+      "settings": {
+        "header_custom": "",
+        "meta_descr": "",
+        "title": "404",
+        "html_before": "---\npermalink: /404.html\n---"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase"
+            },
+            ".form-control-label": {}
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-6",
+          "_params": {
+            "showSubtitle": true,
+            "showTitle": true,
+            "showText": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/03.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ecf0f1",
+            "overlay": false,
+            "overlayColor": "#ecf0f1",
+            "overlayOpacity": 0.5
+          },
+          "subtitle": "THE PAGE YOU ARE LOOKING FOR...",
+          "title": "404 OOPs!&nbsp;",
+          "text": "The page that you are searching for either doesn't exist, or you have typed a wrong web address. <br>Please let us know what you were doing before this error occured. Or <a href=\"index.html\">click here</a> to return to the Home Page.",
+          "form": {
+            "action": "aardvarkants@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "iconName": "<img src=\"@PROJECT_PATH@/assets/images/icon-name.png\">",
+          "iconEmail": "<img src=\"@PROJECT_PATH@/assets/images/icon-email.png\">",
+          "iconPhone": "<img src=\"@PROJECT_PATH@/assets/images/icon-phone.png\">",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
+        }
+      ]
+    }
+  }
+}
